@@ -16,7 +16,7 @@
 ## 🧠 About Me
 
 - 🎓 Final-year **B.E. Computer Science** @ Panimalar Engineering College, Chennai (CGPA: 7.95)
-- ⚡ Previous Captain of the **AWS Cloud Club - Panimalar** — 500+ member community, 10+ events, 5 peers certified
+- ⚡ Previous Leader of the **AWS Student Builder Group - Panimalar Chennai** — 500+ member community, 10+ events, 5 peers certified
 - 🌱 Pursuing **AZ-204** (June 2026) → **AWS SAA** (July 2026)
 - 🎯 Goal: Senior AI/Cloud Engineer at a hyperscaler by 2030
 
