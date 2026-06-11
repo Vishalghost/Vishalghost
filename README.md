@@ -141,7 +141,7 @@
 ## 🏆 Community
 
 - 🧢 **Captain** — AWS Student Builder Group, Panimalar Engineering College (500+ members)
-- 🎤 **Speaker** — AWS User Group Chennai
+- 🎤 **Speaker** — Coders Forum
 - 🤝 **Active** — AWS User Group Chennai · Coders Forum
 
 ---
