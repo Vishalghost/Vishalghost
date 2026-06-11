@@ -16,9 +16,7 @@
 ## 🧠 About Me
 
 - 🎓 Final-year **B.E. Computer Science** @ Panimalar Engineering College, Chennai (CGPA: 7.95)
-- ⚡ Captain of the **AWS Cloud Club** — 500+ member community, 10+ events, 5 peers certified
-- 🏗️ Currently building **HydraSQL** — a self-healing federated query engine with LangGraph + Claude API (95% token reduction)
-- 🏆 Built **FactoryMind** — a 6-manager hierarchical multi-agent manufacturing platform on AWS Bedrock (251 tests, full CDK infra, React dashboard)
+- ⚡ Previous Captain of the **AWS Cloud Club - Panimalar** — 500+ member community, 10+ events, 5 peers certified
 - 🌱 Pursuing **AZ-204** (June 2026) → **AWS SAA** (July 2026)
 - 🎯 Goal: Senior AI/Cloud Engineer at a hyperscaler by 2030
 
